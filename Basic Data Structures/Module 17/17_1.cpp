@@ -1,0 +1,11 @@
+/* 
+Binary Tree
+one of the tree data structures 
+
+what is a tre data structure
+
+a tree data structure has a root and has leaf
+
+
+Why did
+ */
